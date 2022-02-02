@@ -1,4 +1,4 @@
-# text-chess
+# Text-Based 2-Player Chess Game
 a 2-player chess game you can play in your terminal, made with C++
 
 2-PLAYER CHESS PROGRAM
